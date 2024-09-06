@@ -210,17 +210,6 @@ const Search: Template<TemplateRenderProps> = ({ document }) => {
           <i className="fa fa-search"></i>
         </button>
       </div>
-      {/* 
-      <form aria-label="Wealth Management Locator Form">
-        <label htmlFor="city">City:</label>
-        <input type="text" id="city" name="city" aria-label="City" required />
-        <label htmlFor="postal">Postal Code:</label>
-        <input type="text" id="postal" name="postal" aria-label="Postal Code" required />
-        <label htmlFor="state">State:</label>
-        <input type="text" id="state" name="state" aria-label="State" required />
-        <button type="submit" aria-label="Submit Form">Get In Touch</button>
-      </form>
-      */}
     </section>
     </main>
 
